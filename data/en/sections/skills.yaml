@@ -27,7 +27,7 @@ skills:
   url: "https://www.docker.com/"
 
 - name: Azure
-  logo: "/images/sections/skills/Azure.png"
+  logo: "/images/sections/skills/azure.png"
   summary: "Using as the main Cloud Provider for IaC and SaaS deployments."
   url: "https://portal.azure.com"
 
