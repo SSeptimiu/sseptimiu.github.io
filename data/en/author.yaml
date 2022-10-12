@@ -1,0 +1,21 @@
+# some information about you
+name: "Scrob-Nica Septimiu"
+nickname: "Timi"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "septimiu.scrob-nica@protonmail.com"
+  phone: "+4917698227735"
+  GitHub:
+    icon: github
+    url: "https://github.com/SSeptimiu"
+    text: "SSeptimiu"
+
+# some summary about what you do
+summary:
+  - I am a Architect
+  - I am a Father
+  - I love servers and Cloud Computing
+  - I love to work with some fun projects

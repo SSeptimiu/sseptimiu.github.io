@@ -1,0 +1,81 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Atos IT
+    url: "https://atos.net/en/"
+    location: Munich
+    # company overview
+    overview: Atos Information Technology is a widely recognized company for supporting  Hybrid multicloud migrations and administration. 
+  positions:
+  - designation: Hybrid Cloud Architect
+    start: April 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Present
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Technical deployment lead, onboarding new tenants and migrating existing tenant’s infrastructure to new cloud platforms.
+    - Reviewing and approving design documentation, future roadmap plans and ensuring adherence to standards for the platforms.
+    - Creation of various documentation including HLD, LLD and associated cost models for new tenants.
+    - Cloud Technical Architect SPOC aligned to multiple tenant accounts with a deep understanding of their infrastructure.
+
+- company:
+    name: Atos IT
+    url: "https://atos.net/en/"
+    location: Munich
+    # company overview
+    overview: Atos Information Technology is a widely recognized company for supporting  Hybrid multicloud migrations and administration. 
+  positions:
+  - designation: Technical Architect
+    start: July 2015
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: April 2018
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - SPOC for managed services planning, transition and operation with partner on/off shore locations in Romania and India.
+    - Responsible for transition and transformation of the global administration landscape comprised of more than 200 servers in multiple geographical regions across the globe.    - Creation of various documentation including HLD, LLD and associated cost models for new tenants.
+    - Creation of various documentation including low level design and operational guides for new delivery teams.
+    - Datacenter migrations for managed OS services to private cloud solution based on Vmware technologies
+    - Weekly management reporting and risk assessment of scheduled work packages based on services offered
+
+- company:
+    name: Atos IT
+    url: "hhttps://atos.net/en/"
+    location: Munich
+    # company overview
+    overview: Atos Information Technology is a widely recognized company for supporting  Hybrid multicloud migrations and administration. 
+  positions:
+  - designation: Senior System Administrator
+    start: April 2012
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: July 2015
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design, implementation and administration skills around Windows Server 2003-2012, Active Directory Group Policy, McAfee ePO, TrendMicro, Bladelogic server automation, SCOM, Nagios Monitoring, BMC Remedy and ServiceNow
+    - Responsible for Windows Server infrastructure patching for both Microsoft and vendor specific patches including piloting and productive deployment phase.
+    - Server Migration with sizing, storage calculation and backup services
+    - Technical Lead in implementation of IT services and procedures for operational improvements
+    - Responsible for functional resource allocation in onShore locations for multiple global customers and projects
+
+- company:
+    name: Siemens IT.
+    url: "https://www.siemens.com/global/en.html"
+    location: Romania
+    overview: Siemens is a multi national company providing services for milions of customers across a broad technology spectrum
+  positions:
+  - designation: Senior System Engineer
+    start: June 2008
+    end: April 2012
+    responsibilities:
+    - Proactive technical support reviewing the client’s server infrastructure
+    - Ensuring IT systems support their business requirements and providing feedback on agreed SLAs
+    - Deploying and managing server infrastructure across multiple customers and regions with supporting 24/7 on-call services to ensure reliability and fast response to customer needs

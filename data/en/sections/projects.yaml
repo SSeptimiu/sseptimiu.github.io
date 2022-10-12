@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+
+projects:
+- name: SAP2Azure
+  logo: /images/sections/projects/azure.png
+  role: Contributor
+  timeline: "December 2020 - June 2021"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  ##url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Production-Grade SAP2Azure deployment and migration.
+  tags: ["professional", "SAP", "cloud"]
+  
+- name: Azure Solutioning
+  logo: /images/sections/projects/azure.png
+  role: Contributor and Lead
+  timeline: "June 2021 - March 2022"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  ##url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Production-Grade DevOps architecture and migration planning and designing..
+  tags: ["professional", "Azure", "cloud", "Solutioning"]
+
+- name: Azure Cloud Community Lead
+  logo: /images/sections/projects/azure.png
+  role: Manager
+  timeline: "March 2021 - March 2022"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  ##url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Production-Grade SAP2Azure deployment and migration.
+  tags: ["professional", "Azure", "cloud", "Community"]
+
+  
+- name: Toha
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Jun 2019 - Present"
+  repo: https://github.com/hossainemruz/toha
+  summary: A Hugo theme for personal portfolio.
+  tags: ["hobby","hugo","theme",]

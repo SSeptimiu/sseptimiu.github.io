@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Kubernetes
+  logo: "/images/sections/skills/kubernetes.png"
+  summary: "Capable of deploying applications on Kubernetes."
+  url: "https://kubernetes.io/"
+
+- name: Docker
+  logo: "/images/sections/skills/docker.svg"
+  summary: "Capable of  managing and deploying docker containers"
+  url: "https://www.docker.com/"
+  
+- name: DevOps
+  logo: "/images/sections/skills/git.png"
+  summary: "Capable of  managing and deploying docker containers"
+  url: "https://www.docker.com/"
+
+- name: Azure
+  logo: "/images/sections/skills/Azure.png"
+  summary: "Using as the main Cloud Provider for IaC and SaaS deployments."
+  url: "https://portal.azure.com"
+
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Worked with most of the major clouds such as Azure and AWS"
