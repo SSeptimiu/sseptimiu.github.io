@@ -13,17 +13,17 @@ section:
 skills:
 - name: Kubernetes
   logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying applications on Kubernetes."
+  summary: "Capable of deploying Kubernetes and run basic administrative tasks"
   url: "https://kubernetes.io/"
 
 - name: Docker
   logo: "/images/sections/skills/docker.svg"
-  summary: "Capable of  managing and deploying docker containers"
+  summary: "Capable of deploying docker containers"
   url: "https://www.docker.com/"
   
 - name: DevOps
   logo: "/images/sections/skills/git.png"
-  summary: "Capable of  managing and deploying docker containers"
+  summary: "Capable of working with DevOps environments like Gitlab and Github"
   url: "https://www.docker.com/"
 
 - name: Azure
