@@ -11,6 +11,23 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Controlware GmbH
+    url: "https://www.controlware.de/en/"
+    location: Munich
+    # company overview
+    overview: IT Service Provider for Cloud, Network and Security Services 
+  positions:
+  - designation: Hybrid Cloud Architect
+    start: April 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Present
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Focus on Enterprise Strategy and business aligned Strategy (IT&Cloud, development of the Consulting Framework (Cloud + Disaster Recovery))
+    - Everything around Cloud and technology innovation (Design, Concept, Adoption, Solution Design)
+    - Translation and implementation of business requirements in technical solutions
+
+- company:
     name: Atos IT
     url: "https://atos.net/en/"
     location: Munich
