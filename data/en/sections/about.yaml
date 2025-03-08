@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Hyrid Cloud Architect
+designation: Cloud Consultant 
 # your company information
 company:
-  name: Atos Information Technology
-  url: "https://atos.net/en/"
+  name: Controlware GmbH
+  url: "https://www.controlware.de/en/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
