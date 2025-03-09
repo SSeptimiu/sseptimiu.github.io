@@ -50,6 +50,11 @@ badges:
   badge: "https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png"
 
 - type: certification
+  name: Terraform Associate
+  url: "https://www.credly.com/badges/12f129f0-1131-4366-953a-71555487eebd"
+  badge: "https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"
+
+- type: certification
   name: MCSE Core Infrastructure
   url: "https://www.credly.com/badges/e2e7daa8-c106-484b-b179-4f8deda3746c/public_url"
   badge: "https://images.credly.com/size/340x340/images/fa62b3b7-710b-44fd-8878-fb5d18665b57/Core-Infrastructure.png"
@@ -62,7 +67,7 @@ badges:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
-#  percentage: 80
+#  percentage: 85
 #  color: blue
 - name: Team Work
 #  percentage: 80
