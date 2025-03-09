@@ -61,20 +61,20 @@ badges:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
- # percentage: 90
- # color: blue
+  percentage: 90
+  color: blue
 - name: Team Work
- # percentage: 20
- # color: yellow
+  percentage: 80
+  color: yellow
 - name: Communication
- # percentage: 10
- # color: green
+  percentage: 90
+  color: green
 - name: Positivity
- # percentage: 10
- # color: blue
+  percentage: 100
+  color: blue
 - name: Teamwork
- # percentage: 10
- # color: yellow
+  percentage: 90
+  color: yellow
 - name: Critical Thinking
- # percentage: 60
- # color: green
+  percentage: 85
+  color: green
