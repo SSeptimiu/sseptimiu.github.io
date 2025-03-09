@@ -20,7 +20,7 @@ skills:
   logo: "/images/sections/skills/docker.svg"
   summary: "Capable of deploying docker containers"
   url: "https://www.docker.com/"
-  
+
 - name: DevOps
   logo: "/images/sections/skills/git.png"
   summary: "Capable of working with DevOps environments like Gitlab and Github"
@@ -33,4 +33,8 @@ skills:
 
 - name: Cloud Computing
   logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as Azure and AWS"
+  summary: "Worked with most of the major clouds such as Azure"
+
+#- name: Enterprise Architecture
+ # logo: "/images/sections/skills/togaf.png"
+  #summary: "Helping customers transforming business goals in technical implementation"

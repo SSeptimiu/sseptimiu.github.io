@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Cloud Consultant 
+designation: Cloud Consultant
 # your company information
 company:
   name: Controlware GmbH
@@ -55,26 +55,25 @@ badges:
   badge: "https://images.credly.com/size/340x340/images/fa62b3b7-710b-44fd-8878-fb5d18665b57/Core-Infrastructure.png"
 
 
-
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
-  percentage: 90
-  color: blue
+#  percentage: 50
+#  color: blue
 - name: Team Work
-  percentage: 80
-  color: yellow
+#  percentage: 80
+#  color: yellow
 - name: Communication
-  percentage: 90
-  color: green
+#  percentage: 90
+#  color: green
 - name: Positivity
-  percentage: 100
-  color: blue
+#  percentage: 100
+#  color: blue
 - name: Teamwork
-  percentage: 90
-  color: yellow
+#  percentage: 90
+#  color: yellow
 - name: Critical Thinking
-  percentage: 85
-  color: green
+#  percentage: 85
+#  color: green
