@@ -18,7 +18,7 @@ experiences:
     overview: IT Service Provider for Cloud, Network and Security Services
   positions:
   - designation: Cloud Architect
-    start: April 2018
+    start: February 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Present
     # give some points about what was your responsibilities at the company.
@@ -32,12 +32,12 @@ experiences:
     url: "https://atos.net/en/"
     location: Munich
     # company overview
-    overview: Atos Information Technology is a widely recognized company for supporting  Hybrid multicloud migrations and administration. 
+    overview: Atos Information Technology is a widely recognized company for supporting  Hybrid multicloud migrations and administration.
   positions:
   - designation: Hybrid Cloud Architect
     start: April 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Present
+    end: February 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Technical deployment lead, onboarding new tenants and migrating existing tenant’s infrastructure to new cloud platforms.
